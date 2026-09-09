@@ -1,0 +1,192 @@
+id,message,intent
+1,"@AmazonHelp where is my package? It's been 5 days and tracking hasn't updated",order_tracking
+2,"my order says ""out for delivery"" since yesterday still nothing smh",order_tracking
+3,"Can someone tell me why my package has been stuck in transit for a week?? order#112-3456789",order_tracking
+4,"@AmazonHelp tracking number isn't working, can u check on my order pls",order_tracking
+5,"its been 2 weeks and my package still says ""preparing for shipment"" wth",order_tracking
+6,"Hey @AmazonHelp any update on order 111-2233445? tracking hasn't moved since Monday",order_tracking
+7,"why does it say delivered when I never got anything???",order_tracking
+8,"Been refreshing the tracking page all day lol where's my stuff",order_tracking
+9,"@AmazonHelp my package left the warehouse 4 days ago and now nothing. is it lost?",order_tracking
+10,"how long does standard shipping usually take? mine's been ""in transit"" forever",order_tracking
+11,"tracking shows my order is in a different state than my address???",order_tracking
+12,"@AmazonHelp can you locate my shipment? no updates since it left the facility",order_tracking
+13,"order was supposed to arrive today, tracking not updating at all",order_tracking
+14,"Is amazon tracking broken rn? mine hasn't changed in 3 days",order_tracking
+15,"@AmazonHelp please help me track order #445-9988776, courier info missing",order_tracking
+16,"my package tracking just stopped, last update was 2 days ago in another city",order_tracking
+17,"hey any idea why my delivery estimate keeps changing every day",order_tracking
+18,"@AmazonHelp checked tracking and it says ""arriving late"" for the 3rd time now",order_tracking
+19,"how do I track my order without the app, website won't load the tracking page",order_tracking
+20,"Amazon says my package is out for delivery but the driver hasn't even started my route",order_tracking
+21,"@AmazonHelp I ordered 6 days ago and it's still processing, no tracking info yet",order_tracking
+22,"why is my tracking link showing an error page",order_tracking
+23,"can someone check where my order #778-2211334 currently is",order_tracking
+24,"@AmazonHelp shipment shows delivered to a locker I've never used, confused",order_tracking
+25,"My package tracking hasn't updated in 4 days, starting to worry",order_tracking
+26,"@AmazonHelp is there a delay with deliveries in my area? tracking frozen since Tuesday",order_tracking
+27,"order still shows processing after a week, when will it ship",order_tracking
+28,"tracking number given at checkout doesn't even work on ur site @AmazonHelp",order_tracking
+29,"@AmazonHelp how do I cancel an order I just placed by mistake",order_cancellation
+30,"need to cancel order #223-4455667 asap before it ships",order_cancellation
+31,"accidentally ordered 2 of the same thing, can you cancel one",order_cancellation
+32,"is there a way to cancel my subscribe & save order this month",order_cancellation
+33,"@AmazonHelp cancel button isn't showing up for my order, help",order_cancellation
+34,"I want to cancel my whole order, changed my mind",order_cancellation
+35,"can u cancel order 998-1122334, it hasn't shipped yet",order_cancellation
+36,"ordered the wrong size, need to cancel before it goes out",order_cancellation
+37,"@AmazonHelp please cancel my order, I found it cheaper elsewhere",order_cancellation
+38,"how do I stop an order from shipping, already tried the app",order_cancellation
+39,"tried to cancel but it says order already processing, can someone help",order_cancellation
+40,"cancel my prime video order plz wrong charge",order_cancellation
+41,"@AmazonHelp I need to cancel 3 items from my cart order, is that possible",order_cancellation
+42,"just placed an order 2 mins ago, need to cancel it now",order_cancellation
+43,"why can't I cancel my order anymore, it hasn't even shipped",order_cancellation
+44,"@AmazonHelp cancel order #556-7788990 pls, ordered by accident",order_cancellation
+45,"can I cancel part of my order or does it have to be the whole thing",order_cancellation
+46,"trying to cancel a preorder, the button is greyed out",order_cancellation
+47,"@AmazonHelp need help cancelling recurring subscription order",order_cancellation
+48,"is it too late to cancel if it says ""preparing for shipment""",order_cancellation
+49,"@AmazonHelp when will I get my refund, returned item 2 weeks ago",refund_request
+50,"still haven't received refund for order #334-5566778",refund_request
+51,"refund says processed but nothing in my bank account",refund_request
+52,"@AmazonHelp how long do refunds usually take after a return",refund_request
+53,"I returned this a month ago and still no refund, ridiculous",refund_request
+54,"want a refund for item that never arrived",refund_request
+55,"@AmazonHelp refund status still shows pending after 10 days",refund_request
+56,"can I get my money back for a damaged item I already threw out",refund_request
+57,"requesting refund, item was completely different from listing",refund_request
+58,"@AmazonHelp refund was supposed to hit my card 5 days ago, nothing yet",refund_request
+59,"how do I request a refund without printing a return label",refund_request
+60,"they said refund issued but my bank shows nothing",refund_request
+61,"@AmazonHelp can I get refunded to gift card instead of original payment",refund_request
+62,"item arrived broken, want full refund not replacement",refund_request
+63,"refund amount is less than what I paid, why",refund_request
+64,"@AmazonHelp please refund me, seller never shipped the item",refund_request
+65,"how long after drop off does refund take to process",refund_request
+66,"still waiting on refund for a cancelled order from last week",refund_request
+67,"@AmazonHelp requesting refund for duplicate charge on same order",refund_request
+68,"refund shows as issued but I never got an email confirmation",refund_request
+69,"can someone escalate my refund request, it's been 3 weeks",refund_request
+70,"@AmazonHelp partial refund isn't enough, item is completely unusable",refund_request
+71,"asked for refund instead of replacement, did that go through",refund_request
+72,"why did my refund get denied, item was clearly faulty",refund_request
+73,"@AmazonHelp my package arrived completely crushed, box was torn open",delivery_problem
+74,"wrong item delivered, I ordered headphones and got a phone case",delivery_problem
+75,"driver left my package in the rain, everything inside is soaked",delivery_problem
+76,"@AmazonHelp delivered to wrong address, not even close to mine",delivery_problem
+77,"box was empty when I opened it, where's my actual order",delivery_problem
+78,"package was left on the street instead of my porch, someone could've taken it",delivery_problem
+79,"@AmazonHelp got someone else's order instead of mine",delivery_problem
+80,"delivery photo shows a house that isn't mine at all",delivery_problem
+81,"item was delivered but it's the wrong color/size",delivery_problem
+82,"@AmazonHelp my package got left outside the gate, not even near my door",delivery_problem
+83,"received a damaged box with items missing inside",delivery_problem
+84,"courier didn't even knock, marked as delivered but nothing here",delivery_problem
+85,"@AmazonHelp two items missing from my multi-item order",delivery_problem
+86,"delivery driver refused to bring it up to my apartment",delivery_problem
+87,"@AmazonHelp package was thrown over my fence and broke",delivery_problem
+88,"got the right box but wrong product inside, mislabeled maybe",delivery_problem
+89,"delivered while I was home but no one rang the bell??",delivery_problem
+90,"@AmazonHelp my neighbor got my package by mistake, can u help sort it",delivery_problem
+91,"box arrived soaking wet, contents ruined",delivery_problem
+92,"@AmazonHelp delivery says signature required but no one came to my door",delivery_problem
+93,"items were clearly repackaged and something is missing",delivery_problem
+94,"package arrived open with the seal broken",delivery_problem
+95,"@AmazonHelp delivered a day early but to the wrong building entirely",delivery_problem
+96,"courier left it in an unsafe spot, visible from the street",delivery_problem
+97,"@AmazonHelp received a completely different item than what I ordered",delivery_problem
+98,"@AmazonHelp got charged twice for the same order, please fix",payment_problem
+99,"my card was declined but amazon says payment failed on their end",payment_problem
+100,"why is there a random charge from amazon on my statement",payment_problem
+101,"@AmazonHelp payment keeps failing at checkout even though card is valid",payment_problem
+102,"charged for an order I never placed, is this fraud",payment_problem
+103,"@AmazonHelp gift card balance isn't applying at checkout",payment_problem
+104,"payment went through but order shows as pending payment",payment_problem
+105,"billing address mismatch error, but everything looks correct",payment_problem
+106,"@AmazonHelp charged in wrong currency for my order",payment_problem
+107,"my emi payment for this order didn't process correctly",payment_problem
+108,"@AmazonHelp double charged on prime renewal this month",payment_problem
+109,"amazon pay balance not reflecting after refund",payment_problem
+110,"transaction failed but money still deducted from my account",payment_problem
+111,"@AmazonHelp can't update my payment method, keeps giving error",payment_problem
+112,"charged full price even though I used a promo code",payment_problem
+113,"@AmazonHelp payment authorization is stuck pending for 3 days",payment_problem
+114,"why was I billed before my order even shipped",payment_problem
+115,"card got charged for cancelled order, need this reversed",payment_problem
+116,"@AmazonHelp seeing duplicate transactions for one single order",payment_problem
+117,"amazon charged my old card even after I removed it",payment_problem
+118,"@AmazonHelp locked out of my account, reset link isn't working",account_problem
+119,"can't log in, keeps saying incorrect password even after reset",account_problem
+120,"@AmazonHelp someone else accessed my account, need help securing it",account_problem
+121,"my prime membership isn't showing as active anymore",account_problem
+122,"@AmazonHelp account got suspended for no reason, need this resolved",account_problem
+123,"two factor code never arrives on my phone",account_problem
+124,"@AmazonHelp can't change my email address on the account",account_problem
+125,"account merged wrong, now I have orders that aren't mine",account_problem
+126,"@AmazonHelp forgot password and the recovery email bounces back",account_problem
+127,"my account shows a different address than what I set",account_problem
+128,"@AmazonHelp trying to delete my account, page keeps error",account_problem
+129,"prime benefits disappeared even though I'm still subscribed",account_problem
+130,"@AmazonHelp account flagged for suspicious activity, I didn't do anything",account_problem
+131,"can't link my household account for prime sharing",account_problem
+132,"@AmazonHelp verification email never comes through for new account",account_problem
+133,"my saved addresses all disappeared from my account",account_problem
+134,"@AmazonHelp getting logged out randomly every few minutes",account_problem
+135,"account shows wrong name after I tried to update it",account_problem
+136,"@AmazonHelp item arrived broken right out of the box",product_problem
+137,"product doesn't match the description at all, feels cheap",product_problem
+138,"@AmazonHelp received a used item that was listed as new",product_problem
+139,"this charger stopped working after just 2 days",product_problem
+140,"@AmazonHelp missing parts in the furniture I ordered",product_problem
+141,"product smells weird, definitely not what's shown in pictures",product_problem
+142,"@AmazonHelp the size chart was wrong, item doesn't fit at all",product_problem
+143,"received expired food item, sell by date already passed",product_problem
+144,"@AmazonHelp item is a clear knockoff not the brand advertised",product_problem
+145,"headphones only work in one ear, defective",product_problem
+146,"@AmazonHelp product photos are misleading, color is completely different",product_problem
+147,"blender motor burned out on first use",product_problem
+148,"@AmazonHelp received counterfeit product, packaging looks fake",product_problem
+149,"item missing the charging cable that was supposed to be included",product_problem
+150,"@AmazonHelp shoes came with mismatched sizes in the box",product_problem
+151,"product stopped charging after one week of use",product_problem
+152,"@AmazonHelp screen on this tablet has dead pixels out of the box",product_problem
+153,"this is not authentic, definitely fake based on the packaging",product_problem
+154,"@AmazonHelp item was listed as waterproof but leaks immediately",product_problem
+155,"quality is way worse than what's shown in reviews",product_problem
+156,"@AmazonHelp toy arrived with a cracked piece, unsafe for my kid",product_problem
+157,"product doesn't power on at all, DOA",product_problem
+158,"@AmazonHelp app keeps crashing every time I try to checkout",technical_problem
+159,"website won't load past the cart page, tried different browsers",technical_problem
+160,"@AmazonHelp can't upload my return photos, upload button broken",technical_problem
+161,"app shows blank screen after the latest update",technical_problem
+162,"@AmazonHelp search bar isn't returning any results right now",technical_problem
+163,"checkout page is stuck loading forever",technical_problem
+164,"@AmazonHelp getting error 500 every time I try to view my orders",technical_problem
+165,"app won't let me add items to cart, just spins",technical_problem
+166,"@AmazonHelp alexa app isn't syncing with my orders anymore",technical_problem
+167,"website keeps logging me out mid checkout",technical_problem
+168,"@AmazonHelp can't download my invoice, link is broken",technical_problem
+169,"app notifications aren't coming through anymore",technical_problem
+170,"@AmazonHelp trying to leave a review but the page errors out",technical_problem
+171,"amazon fresh app freezes on the payment screen",technical_problem
+172,"@AmazonHelp video isn't loading on prime video app, buffering forever",technical_problem
+173,"website keeps showing ""something went wrong"" on every page",technical_problem
+174,"@AmazonHelp do you guys ship to Canada from the US site",general_inquiry
+175,"what time does customer service chat open",general_inquiry
+176,"@AmazonHelp is prime day happening again this year",general_inquiry
+177,"how does the amazon warranty work for electronics",general_inquiry
+178,"@AmazonHelp what's the return window for clothing items",general_inquiry
+179,"do you offer same day delivery in my area",general_inquiry
+180,"@AmazonHelp how do student prime discounts work",general_inquiry
+181,"is there a way to change my delivery day preference permanently",general_inquiry
+182,"@AmazonHelp what payment methods do you accept besides cards",general_inquiry
+183,"how do i become an amazon seller, any requirements",general_inquiry
+184,"@AmazonHelp does prime include grocery delivery too",general_inquiry
+185,"what's the difference between prime and prime video only",general_inquiry
+186,"@AmazonHelp can I get an invoice with company details on it",general_inquiry
+187,"how do gift returns work if I don't have the receipt",general_inquiry
+188,"@AmazonHelp is there a customer service phone number I can call",general_inquiry
+189,"does amazon have a loyalty program for frequent buyers",general_inquiry
+190,"@AmazonHelp what's your policy on international returns",general_inquiry
+191,"how do I give feedback about a delivery driver",general_inquiry

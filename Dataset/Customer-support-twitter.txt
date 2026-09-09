@@ -1,0 +1,2 @@
+We run the dataset on Kaggle so download it not possible so the link is provide for dataset
+/kaggle/input/datasets/guhanabi/golden-dataset/amazon_support_intent_golden_eval.csv
